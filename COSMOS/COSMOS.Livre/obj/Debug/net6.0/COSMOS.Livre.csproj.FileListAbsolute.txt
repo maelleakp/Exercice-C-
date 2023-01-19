@@ -1,0 +1,15 @@
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/bin/Debug/net6.0/COSMOS.Livre
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/bin/Debug/net6.0/COSMOS.Livre.deps.json
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/bin/Debug/net6.0/COSMOS.Livre.runtimeconfig.json
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/bin/Debug/net6.0/COSMOS.Livre.dll
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/bin/Debug/net6.0/COSMOS.Livre.pdb
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.csproj.AssemblyReference.cache
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.AssemblyInfoInputs.cache
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.AssemblyInfo.cs
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.csproj.CoreCompileInputs.cache
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.dll
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/refint/COSMOS.Livre.dll
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.pdb
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/COSMOS.Livre.genruntimeconfig.cache
+/Users/user/Projects/COMOS/Branche/COSMOS/COSMOS.Livre/obj/Debug/net6.0/ref/COSMOS.Livre.dll
